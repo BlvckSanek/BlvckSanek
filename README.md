@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BlvckSanek
-- 👀 I’m interested in Data Science and Artificial Intelligence
+- 👋 Hi, I’m @Sanek
+- 👀 I’m interested in using Data Science and Artificial Intelligence to make lives better
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on how to use machine learning to help ease traffic on our roads
 - 📫 How to reach me via arkohnelsonemmanuel@gmail.com or +233249451363
